@@ -13,3 +13,4 @@ Geliştirme yaparken önce kurulumu yapınız. http://book.cakephp.org/2.0/en/co
 2. App/tmp dizinine chmod 777 vermelisiniz.
 3. DB klasöründeki kullanıcı yönetimini içeren boş veritabanı ile mysql'de bi veritabanı oluşturunuz.
 4. Daha sonra, Config/database.default.php dosyasını aynı klasöre database.php olarak kopyalayın ve dosyada  host, kullanıcı adı ve şifreleri değiştiriniz.
+5. Kullanıcı yönetimi için www/phpeticaret/authake, kullanıcı adı ve şifre olarak da, admin ve admin giriniz.
