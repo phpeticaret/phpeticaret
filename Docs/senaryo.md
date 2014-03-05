@@ -1,16 +1,16 @@
-1-kullanıcı ürün inceler 
-2-sepete ekler 
-3-satin alma ekranında üye login mi değil mi kontrol edilir
-  3.1-login değilse giriş yapması, hesap oluşturması veya misafir hesapla alışveriş tamamlanması istenir. 
-    Not: Bu adımdan sonra kullanıcı https alanına dahil olur.
-    3.1.a => a.Giriş yapar, giriş yaptıktan sonra; fatura bilgileri alınır. Eğer daha önceden alınmış ise bu adım atlanır. 
-             b.Ödeme tipi seçtirilir. Ödeme tipine göre(paypa, kapıda ödeme, kredi kartı) kullanıcı sayfaya yönlendirilir. 
-             c.Ödeme bilgileri alınır ve işlem sonlanır.
-             -----------------
-    3.1.b =>  a. Hesap oluşturu ve 3.1.a maddesinin b ve c koşullarını yerine getirir.
-             -----------------
-    3.1.c => Misafir hesap ile alış veriş yapmak isteyenler; 
-                kişisel bilgilerini ve fatura bilgilerini verdikten sonra ödeme tipi seçtirilir. Ödeme tipine göre(paypa, kapıda ödeme, kredi kartı) kullanıcı sayfaya yönlendirilir. 
-             Ödeme bilgileri alınır ve işlem sonlanır.
-4- 3. seçenek tamamlandığında kullanıcıya ve site yöneticisine bilgilendirme maili gider. 
-5- 3. aşamadaki her adımın log kaydı tutulur.
+#Senaryo#
+- kullanÄ±cÄ± Ã¼rÃ¼n inceler 
+- sepete ekler 
+- satin alma ekranÄ±nda Ã¼ye login mi deÄŸil mi kontrol edilir 
+- 3.1-login deÄŸilse giriÅŸ yapmasÄ±, hesap oluÅŸturmasÄ± veya misafir hesapla alÄ±ÅŸveriÅŸ tamamlanmasÄ± istenir. Not: Bu adÄ±mdan sonra kullanÄ±cÄ± https alanÄ±na dahil olur. 
+- 3.1.a => 
+- a.GiriÅŸ yapar, giriÅŸ yaptÄ±ktan sonra; fatura bilgileri alÄ±nÄ±r. EÄŸer daha Ã¶nceden alÄ±nmÄ±ÅŸ ise bu adÄ±m atlanÄ±r. 
+- b.Ã–deme tipi seÃ§tirilir. Ã–deme tipine gÃ¶re(paypa, kapÄ±da Ã¶deme, kredi kartÄ±) kullanÄ±cÄ± sayfaya yÃ¶nlendirilir. 
+- c.Ã–deme bilgileri alÄ±nÄ±r ve iÅŸlem sonlanÄ±r. 
+----------------- 
+- 3.1.b => a. Hesap oluÅŸturu ve 
+- 3.1.a maddesinin b ve c koÅŸullarÄ±nÄ± yerine getirir. 
+----------------- 
+- 3.1.c => Misafir hesap ile alÄ±ÅŸ veriÅŸ yapmak isteyenler; kiÅŸisel bilgilerini ve fatura bilgilerini verdikten sonra Ã¶deme tipi seÃ§tirilir. Ã–deme tipine gÃ¶re(paypa, kapÄ±da Ã¶deme, kredi kartÄ±) kullanÄ±cÄ± sayfaya yÃ¶nlendirilir. Ã–deme bilgileri alÄ±nÄ±r ve iÅŸlem sonlanÄ±r. 
+- 3. seÃ§enek tamamlandÄ±ÄŸÄ±nda kullanÄ±cÄ±ya ve site yÃ¶neticisine bilgilendirme maili gider. 
+- 3. aÅŸamadaki her adÄ±mÄ±n log kaydÄ± tutulur.
