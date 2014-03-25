@@ -1,5 +1,8 @@
-1-kullanýcý ürün inceler 
+1-kullanýcý ürün incelemek için bir yöntem seçer. Bu yöntem bir kategori altýndaki ürünle olabilir. belli bir durumdaki ürünler olabilir. Site tarafýndan saðlanan bir vitrin olabilir. Veya belli bir kampanyaya ait bir ürün listesi olabilir.
+  1.1 kullanýcý ürünü inceler 
 2-sepete ekler 
+  2.1-sepetteki ürünler, üyenin bilgileri, sepet tutarý incelenir ve kullanýcýya bu bilgilere göre kampanya aksiyonlarý uygulanýr. 
+  2.2-puan kullanýmý, kupon kullanýmý, hediye çekimi kullanýmý seçenekleri kullanýcýya sunulur.
 3-satin alma ekranýnda üye login mi deðil mi kontrol edilir
   3.1-login deðilse giriþ yapmasý, hesap oluþturmasý veya misafir hesapla alýþveriþ tamamlanmasý istenir. 
     Not: Bu adýmdan sonra kullanýcý https alanýna dahil olur.
